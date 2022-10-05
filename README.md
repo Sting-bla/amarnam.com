@@ -1,2 +1,2 @@
 # eventsfeed.constantcontact.com
-#subdomain takeover by beesting
+# subdomain takeover by beesting
