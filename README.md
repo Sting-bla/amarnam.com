@@ -1,2 +1,2 @@
-# im-api-sg.tiktok.com
+# webcast.tiktok.com
 # subdomain takeover by beesting
