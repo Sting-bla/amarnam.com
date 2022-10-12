@@ -1,2 +1,2 @@
-# eventsfeed.constantcontact.com
+# im-api-sg.tiktok.com
 # subdomain takeover by beesting
