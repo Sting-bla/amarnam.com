@@ -1,2 +1,2 @@
-# im-api-sg.tiktok.com.edgekey.net
+# amarnam.com
 # subdomain takeover by beesting
